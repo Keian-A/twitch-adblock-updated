@@ -61,9 +61,7 @@ When a new version of `twitch-adblock.user.js` is available in this repo:
 
 ---
 
-## Alternative: uBlock Origin (if repo is public)
-
-If you make this repo **public**, you can use uBlock Origin instead of Violentmonkey:
+## Alternative: uBlock Origin
 
 1. uBlock Origin dashboard → **Settings** → check **"I am an advanced user"** → click the gear icon
 2. Set `userResourceLocation` to:
